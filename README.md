@@ -1,4 +1,4 @@
-FairyGUI Unity SDK
+﻿FairyGUI Unity 
 ====
 
 A flexible UI framework for Unity3D, working with the FREE professional Game UI Editor: FairyGUI Editor.  
